@@ -51,37 +51,6 @@ These instructions will get you a copy of the project up and running on your loc
 - Star this repository. 🌟
 
 
-<h2 align=center> Awesome Contributors 🤩 </h2>
-
-Thanks go to these **Wonderful Contributors** ✨✨:
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/king04aman/All-In-One-Python-Projects/graphs/contributors">
-	    	<img src="https://contrib.rocks/image?repo=king04aman/All-In-One-Python-Projects" />
-	    </a>
-		</td>
-	</tr>
-</table>
-
-<hr>
-
-<h2 align='center'>Project Maintainer </h2>
-
-<table>
-	<tr>
-        <td align="center">
-            <a href="https://github.com/king04aman">
-            <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/62813940?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width=100px height=100px />
-            </a></br> 
-            <h4 style="color:#ff8c00;font-weight: bolder; font-size: 15px">Aman Kumar</h4>
-        </td>
-    </tr>
-</table>
-
-## License
-*This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.*
 
 
 <hr>
